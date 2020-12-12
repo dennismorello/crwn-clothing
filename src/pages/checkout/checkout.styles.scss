@@ -31,4 +31,21 @@
     display: flex;
     justify-content: flex-end;
   }
+
+  .test-warning {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 24px;
+    color: red;
+
+    a {
+      color: inherit;
+      text-decoration: underline;
+    }
+  }
+
+  button {
+    margin-left: auto;
+    margin-top: 40px;
+  }
 }
